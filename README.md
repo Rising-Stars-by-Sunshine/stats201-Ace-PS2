@@ -33,9 +33,11 @@ The COVID-19 pandemic has led to a significant increase in interest in remote wo
 
 *Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work) Created By: [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
-**Figure 2: Random Forest Regression**
+**Figure 2: Word Cloud*
 
-![image](https://user-images.githubusercontent.com/122700704/232252891-8d377dc3-2dfd-4cc7-bd8c-4ff0d5bfd099.png)
+![image](https://user-images.githubusercontent.com/122700704/232258618-fc68e152-4d45-4fae-9537-648a4b6079c5.png)
+
+*Source: [Relevant Literature: COVID and Online Jobs](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ace/blob/main/code/PS2-References.csv) Created By: [WordCloud](https://pypi.org/project/wordcloud/)*
 
 
 
