@@ -33,11 +33,15 @@ The COVID-19 pandemic has led to a significant increase in interest in remote wo
 
 *Source: [Google Trends](https://trends.google.com/trends/explore?date=today%205-y&geo=US&q=remote%20work) Created By: [sklearn.ensemble.RandomForestRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)*
 
+Figure 1 depicts a random forest regression analysis that demonstrates the relationship between time and the popularity of virtual jobs. The random forest algorithm is a machine-learning technique that uses decision trees to build a predictive model. By using multiple decision trees and combining their predictions, the model can generate more accurate and reliable results than a single decision tree. The plot in Figure 1 provides insight into the strength and character of this relationship, allowing for a better understanding of the trends and patterns in virtual job popularity over time.
+
 **Figure 2: Word Cloud*
 
 ![image](https://user-images.githubusercontent.com/122700704/232258618-fc68e152-4d45-4fae-9537-648a4b6079c5.png)
 
 *Source: [Relevant Literature: COVID and Online Jobs](https://github.com/Rising-Stars-by-Sunshine/stats201-PS2-Ace/blob/main/code/PS2-References.csv) Created By: [WordCloud](https://pypi.org/project/wordcloud/)*
+
+Figure 2 displays a word cloud that visualizes the frequency of words used throughout relevant literature. In this case, the word cloud depicts the most commonly used terms in research related to remote work and virtual jobs. The larger the word appears in the cloud, the more frequently it is used in the literature. As shown in Figure 2, the words "COVID," "Remote," "Work," and "Pandemic" are the most commonly used terms in this context. A word cloud can be a useful tool for quickly identifying the most salient themes and topics in a large body of text.
 
 
 
